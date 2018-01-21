@@ -1,3 +1,2 @@
 ﻿1、This is a test
-2、Hello
 3、中文测试
